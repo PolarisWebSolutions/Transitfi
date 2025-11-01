@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+
+# production
+/.next
+/out
+
+# misc
+*.log
+.next
+.DS_Store
+.env*
+yarn.lock
+npm-debug.log*
+tsconfig.tsbuildinfo
+
+# editor
+.vscode
+.idea
